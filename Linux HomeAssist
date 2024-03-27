@@ -1,0 +1,21 @@
+Установка Linux на тв-приставку.
+Ссылки на источники:
+http://psenyukov.ru/установка-armbian-и-home-assistant-на-tv-box-h96-max-на-процессоре-rockchip-rk33/
+https://i12bretro.wordpress.com/2020/06/11/installing-armbian-on-amlogic-s912-android-tv-box-tanix-tx9s/
+https://4pda.to/forum/index.php?showtopic=978896&st=21220#entry127037089
+https://docs.armbian.com/User-Guide_Getting-Started/#how-to-update-firmware-and-packages
+https://get.docker.com/
+https://docs.docker.com/engine/install/ubuntu/
+https://pikabu.ru/story/ustanovka_udalenie_dockerdocker_compose_iportainer_naubuntu_2004_debian_10_kali_linux__server_desktop_vpsoracle__8030605
+https://habr.com/ru/companies/otus/articles/743614/ Управление пакетами в ОС Линукс
+https://timeweb.com/ru/community/articles/komandy-linux Основные команды Линукс
+https://habr.com/ru/articles/501442/ Основные команды Линукс для новичка
+https://losst.pro/zapusk-skripta-sh-v-linux
+https://www.zabrosov.ru/
+
+АльтЛинукс Вики:
+https://www.altlinux.org/Главная_страница
+https://forum.altlinux.org/index.php?board=16.0 Форум АльтЛинукс
+https://www.altlinux.org/Regular/arm сборки АльтЛинукс для Arm
+
+https://archive.org/details/LinuxLibgen/ - библиотека
